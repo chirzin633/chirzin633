@@ -13,9 +13,9 @@ Check out my [portfolio](https://chirzin.vercel.app).
 ### 💻 Tech Stack:
 
 <p align="left">
-  <span>
+  <a href="https://skillicons.dev/">
     <img src="https://skillicons.dev/icons?i=js,php,nodejs,react,express,next,laravel,mysql,postgresql" />
-  </span>
+  </a>
 </p>
 
 ### 📊 GitHub Stats:
