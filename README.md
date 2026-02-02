@@ -4,21 +4,21 @@
 
 I am an IT enthusiast with over six years of experience in both technology and business. Throughout my career, I have developed the ability to bridge technical solutions with real-world business needs. My background has equipped me with strong communication skills, particularly in explaining complex software issues in a clear and practical manner. This has enabled me to collaborate effectively with both technical teams and non-technical stakeholders across various projects.
 
-Check out my [portfolio](https://chirzin.vercel.app)
+Check out my [portfolio](https://chirzin.vercel.app).
 
-#### 🌐 Socials:
+### 🌐 Socials:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/chirzin) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:chirzin.attabiq@gmail.com)
 
-#### 💻 Tech Stack:
+### 💻 Tech Stack:
 
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a>
     <img src="https://skillicons.dev/icons?i=js,php,nodejs,react,express,next,laravel,mysql,postgresql" />
   </a>
 </p>
 
-#### 📊 GitHub Stats:
+### 📊 GitHub Stats:
 
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=chirzin633&theme=radical)
 
