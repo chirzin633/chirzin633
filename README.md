@@ -2,9 +2,12 @@
 
 ### 💫 About Me:
 
+<p align="justify">
 I am an IT enthusiast with over six years of experience in both technology and business. Throughout my career, I have developed the ability to bridge technical solutions with real-world business needs. My background has equipped me with strong communication skills, particularly in explaining complex software issues in a clear and practical manner. This has enabled me to collaborate effectively with both technical teams and non-technical stakeholders across various projects.
 
 Check out my [portfolio](https://chirzin.vercel.app).
+
+</p>
 
 ### 🌐 Socials:
 
@@ -13,7 +16,7 @@ Check out my [portfolio](https://chirzin.vercel.app).
 ### 💻 Tech Stack:
 
 <p align="left">
-  <a href="https://skillicons.dev/">
+  <a href="https://skillicons.dev/" target="_blank">
     <img src="https://skillicons.dev/icons?i=js,php,nodejs,react,express,next,laravel,mysql,postgresql" />
   </a>
 </p>
