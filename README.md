@@ -16,7 +16,7 @@ Check out my [portfolio](https://chirzin.vercel.app).
 ### 💻 Tech Stack:
 
 <p align="left">
-  <a href="https://skillicons.dev/" target="_blank">
+  <a href="https://skillicons.dev/">
     <img src="https://skillicons.dev/icons?i=js,php,nodejs,react,express,next,laravel,mysql,postgresql" />
   </a>
 </p>
@@ -26,7 +26,5 @@ Check out my [portfolio](https://chirzin.vercel.app).
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=chirzin633&theme=radical)
 
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=chirzin633&layout=compact&theme=radical)
-
-<img src="https://raw.githubusercontent.com/chirzin633/chirzin633/output/snake.svg" alt="Snake animation" />
 
 ---
