@@ -12,10 +12,10 @@ Check out my [portfolio](https://chirzin.vercel.app).
 
 ### 💻 Tech Stack:
 
-<p align="center">
-  <a>
+<p align="left">
+  <span>
     <img src="https://skillicons.dev/icons?i=js,php,nodejs,react,express,next,laravel,mysql,postgresql" />
-  </a>
+  </span>
 </p>
 
 ### 📊 GitHub Stats:
